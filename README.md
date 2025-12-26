@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rituraj Paul</h1>
-<h3 align="center">MERN Stack Developer | Building AI & Web-Powered Experiences</h3>
+<h3 align="center">Software Engineer | Building AI & Web-Powered Experiences</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Specialist;Loves+Open+Source;Always+learning+new+techs&center=true&width=380&height=45">
