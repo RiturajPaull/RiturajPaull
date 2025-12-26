@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Building AI & Web-Powered Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Specialist;Loves+Open+Source;Always+learning+new+techs&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE-ENGINEER;Full-Stack+Developer;SOFTWARE-ENGINEER;MERN+Stack+Specialist;Loves+Open+Source;Always+learning+new+techs&center=true&width=380&height=45">
 </p>
 
 ---
